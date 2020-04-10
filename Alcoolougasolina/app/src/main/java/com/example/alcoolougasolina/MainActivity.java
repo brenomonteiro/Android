@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             }else{
                 textResultado.setText("Melhor utilizar alcool");
             }
-            
+
         }else{
             textResultado.setText("Preencha os preços primeiro!");
         }
